@@ -1,3 +1,6 @@
+"""
+Utility functions to create an excel function from the output
+"""
 import openpyxl
 from datetime import date
 

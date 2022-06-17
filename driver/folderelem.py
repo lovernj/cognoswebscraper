@@ -1,6 +1,7 @@
+"""
+Represent cognos nodes in python. Data storage class
+"""
 from enum import Enum
-
-
 class FolderElem():
     """
     Represents an element of the folder. 
